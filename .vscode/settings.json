@@ -2,5 +2,25 @@
     "[markdown]": {
         "editor.fontFamily": "Consolas, 'Courier New', monospace"
     },
-    "gitdoc.enabled": true
+    "gitdoc.enabled": true,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#c9688b",
+        "activityBar.background": "#c9688b",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#375e22",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#c9688b",
+        "statusBar.background": "#bb436e",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#c9688b",
+        "statusBarItem.remoteBackground": "#bb436e",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#bb436e",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#bb436e99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#bb436e"
 }

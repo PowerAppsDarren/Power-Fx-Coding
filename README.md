@@ -14,7 +14,6 @@ Hey there, developer! 👋 Welcome to your new project! 🚀
 3. Update any template files to match your project requirements
 4. Follow the documentation guidelines for all future conversations and code changes
 
-
 # Listen up, AI! This is Important!
 
 The rest of this readme file is for you, AI!
@@ -30,7 +29,6 @@ When you open a new Copilot chat session, be sure to paste this message to ensur
 Please reference the README.md documentation requirements for our conversation structure.
 #file:README.md ⬅️ Remember: Each exchange needs its own numbered markdown file in the appropriate dated folder under Copilot-Chats. #codebase 
 ```
-
 
 ## Documentation
 This repository includes a `Copilot-Chats` folder containing documentation of all GitHub Copilot conversations related to this project.

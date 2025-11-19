@@ -6,28 +6,29 @@
 
 DARREN.md
 firebase-debug.log
+--repo-root
 
 # ===================================
 # ENVIRONMENT & SECRETS
 # ===================================
 
-.env
-.env.local
-.env.*.local
-.env.development.local
-.env.test.local
-.env.production.local
-*.env
-.envrc
-secrets.yml
-secrets.yaml
-*.secret
-*.pem
-*.key
-*.cert
-*.crt
-*.p12
-*.pfx
+#.env
+#.env.local
+#.env.*.local
+#.env.development.local
+#.env.test.local
+#.env.production.local
+#*.env
+#.envrc
+#secrets.yml
+#secrets.yaml
+#*.secret
+#*.pem
+#*.key
+#*.cert
+#*.crt
+#*.p12
+#*.pfx
 
 
 # ===================================

@@ -25,6 +25,18 @@ All AI coding assistants and tools **MUST** (**MANDATORY!!**) follow every one o
   - Update session INDEX.md at end of session
   - Full protocol: [`ai-chats/README.md`](./ai-chats/README.md) | Condensed: [`ai-chats.md`](./ai-chats.md)
 
+- [ ] **[Project History Documentation](./project-history.md)**
+  - Maintain comprehensive project history in `project-history.md`
+  - Include ToC with at least: ## Past, ## Present, ## Future
+  - Leverage git history (commits, branches, tags, merges)
+  - Synthesize from code comments, READMEs, scripts, templates, and artifacts
+
+- [ ] **[Claude Certainty Protocol](./claude-certainty.md)**
+  - Accuracy over confidence. Uncertainty over false certainty
+  - Check documentation FIRST before answering capability questions
+  - Use explicit uncertainty markers when unsure
+  - Never make definitive statements without verification
+
 ### Important Development Protocols
 
 - [ ] **[Make-It-Work-First Philosophy](./ai-priorities.md)**
